@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.body {
+    text-align: center;
+}
+
+fieldset {
+    width: 100%;
+}
+
+.form-group {
+    margin-top: 10px;
+}
+
+.cekbox {
+    margin-top: 10px;
+}
+
+.foto {
+    float: right;
+}
+
+.ehm {
+    background-color: blue;
+    color:antiquewhite;
+    border: none;
+    border-radius: 3px;
+    padding: 10px 15px;
+    cursor: pointer;
+    margin-left: -25em;
+    margin-top: 10px;
+}
+
+.emh {
+    background-color: red;
+    color:antiquewhite;
+    border: none;
+    border-radius: 3px;
+    padding: 10px 15px;
+    cursor: pointer; 
+    margin-top: 10px;
+}
+
+.akhir {
+    text-align: center;
+}
